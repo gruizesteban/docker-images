@@ -15,4 +15,4 @@ docker run -d -p 80 ${REGISTRY}/docker-hello-world
 docker push ${REGISTRY}/docker-hello-world
 ```
 
-*NOTE: Replace `YOUR_DOCKER_HUB_USERNAME` above with your own Docker Hub username.*
+*NOTE: Replace `YOUR_DOCKER_HUB_USERNAME` above with your own Docker Hub username.*.
